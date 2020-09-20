@@ -8,6 +8,7 @@
 	<a href="#languages"><img src="https://raw.githubusercontent.com/RobertDalyCode/coloredbadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"/></a>
 	<a href="#languages"><img src="https://raw.githubusercontent.com/RobertDalyCode/coloredbadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"/></a>
 	<a href="#languages"><img src="https://raw.githubusercontent.com/RobertDalyCode/coloredbadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"/></a>
+	<a href="#languages"><img src="https://raw.githubusercontent.com/RobertDalyCode/ColoredBadges/master/svg/dev/languages/java.svg" alt="python" style="vertical-align:top; margin:4px"/></a>
 </p>
 <h2 name="tools">IDEs/Tools</h2>
 <p align="justified">
